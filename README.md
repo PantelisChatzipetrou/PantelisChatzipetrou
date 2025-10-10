@@ -18,7 +18,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 
 <table>
   <tr>
-    <td width="48%" align="center" valign="top" style="padding:10px; border:1px solid #ddd; border-radius:10px;">
+    <td width="70%" align="center" valign="top" style="padding:10px; border:1px solid #ddd; border-radius:10px;">
       <b>NTANTADES 2.0</b><br><br>
       <a href="https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0.git" target="_blank">
         <button style="background-color:#4CAF50; color:white; border:none; padding:12px 24px; border-radius:8px; cursor:pointer; font-size:14px;">View Repo</button>
