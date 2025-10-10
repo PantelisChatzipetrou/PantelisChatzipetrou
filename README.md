@@ -19,17 +19,18 @@ Deeply interested in exploring the world of programming, learning new concepts, 
     <td width="50%" valign="top" style="border:1px solid #ddd; border-radius:10px; padding:20px;">
       <b>NTANTADES 2.0</b><br><br>
       <a href="https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0.git" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-NTANTADES-green" alt="View Repo">
+        <img src="https://img.shields.io/badge/View_Repo-–-green" alt="View Repo">
       </a>
     </td>
     <td width="50%" valign="top" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
       <b>Job-Executor-System-JobCommander-JobExecutorServer</b><br><br>
       <a href="https://github.com/PantelisChatzipetrou/Job-Executor-System-JobCommander-JobExecutorServer-.git" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-JobExecutor-green" alt="View Repo">
+        <img src="https://img.shields.io/badge/View_Repo-–-green" alt="View Repo">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 <!--
