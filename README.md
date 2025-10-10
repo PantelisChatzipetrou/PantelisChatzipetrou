@@ -25,7 +25,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
       </a>
     </td>
     <td width="4%"></td>
-    <td width="48%" align="center" valign="top" style="padding:10px; border:1px solid #ddd; border-radius:10px;">
+    <td width="70%" align="center" valign="top" style="padding:10px; border:1px solid #ddd; border-radius:10px;">
       <b>Project 2 Name</b><br><br>
       <a href="https://github.com/YourUsername/Project2" target="_blank">
         <button style="background-color:#4CAF50; color:white; border:none; padding:12px 24px; border-radius:8px; cursor:pointer; font-size:14px;">View Repo</button>
