@@ -4,6 +4,8 @@ I am Pantelis Chatzipetrou, an undergraduate student at the **Department of Info
 <br>
 Deeply interested in exploring the world of programming, learning new concepts, and continuously improving myself as a developer.
 
+### Languages & Tools
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <!--
 **PantelisChatzipetrou/PantelisChatzipetrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
