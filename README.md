@@ -25,7 +25,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
     <td width="50%" valign="top" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
       <b>Job-Executor-System-JobCommander-JobExecutorServer</b><br><br>
       <a href="https://github.com/PantelisChatzipetrou/Job-Executor-System-JobCommander-JobExecutorServer-.git" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-green" alt="View Repo">
+        <img src="https://img.shields.io/badge/View_Repo-%2388C0D0" alt="View Repo">
       </a>
     </td>
   </tr>
