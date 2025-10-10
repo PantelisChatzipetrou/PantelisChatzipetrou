@@ -16,7 +16,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 ### Projects
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="50%" valign="top" style="border:1px solid #ddd; border-radius:10px; padding:20px;">
+    <td width="50%" valign="top" style="border:1px solid #ddd; border-radius:10px; padding:20px; align="center">
       <b>NTANTADES 2.0</b><br><br>
       <a href="https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0.git" target="_blank">
         <img src="https://img.shields.io/badge/View_Repo-%2388C0D0" alt="View Repo">
