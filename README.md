@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me 
+
+I am Pantelis Chatzipetrou, an undergraduate student at the **Department of Informatics and Telecommunications, National and Kapodistrian University of Athens.**
 
 <!--
 **PantelisChatzipetrou/PantelisChatzipetrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
