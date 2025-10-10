@@ -6,6 +6,10 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 
 ### Languages & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 <!--
 **PantelisChatzipetrou/PantelisChatzipetrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
