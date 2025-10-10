@@ -16,27 +16,23 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 ### Projects
 <div align="center">
 
-  <table>
-    <tr>
-      <td width="48%" align="center" valign="top">
-        <a href="[https://github.com/YourUsername/Project1](https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0)">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=default" alt="Project 1">
-        </a>
-        <br>
-        <b>Project 1 Name</b><br>
-        Short description of what it does.
-      </td>
-      <td width="4%"></td>
-      <td width="48%" align="center" valign="top">
-        <a href="https://github.com/YourUsername/Project2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=default" alt="Project 2">
-        </a>
-        <br>
-        <b>Project 2 Name</b><br>
-        Short description of what it does.
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td width="48%" align="center" valign="top">
+      <b>NTANTADES 2.0</b><br><br>
+      <a href="https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0.git" target="_blank">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:8px 16px; border-radius:5px; cursor:pointer;">View Repo</button>
+      </a>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" align="center" valign="top">
+      <b>Project 2 Name</b><br><br>
+      <a href="https://github.com/YourUsername/Project2" target="_blank">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:8px 16px; border-radius:5px; cursor:pointer;">View Repo</button>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 <!--
