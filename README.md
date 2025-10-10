@@ -21,8 +21,8 @@ Deeply interested in exploring the world of programming, learning new concepts, 
       <a href="https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0.git" target="_blank" style="background-color:#4CAF50; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; display:inline-block;">View Repo</a>
     </td>
     <td width="50%" valign="top" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
-      <b>Project 2 Name</b><br><br>
-      <a href="https://github.com/YourUsername/Project2" target="_blank" style="background-color:#4CAF50; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; display:inline-block;">View Repo</a>
+      <b>Job-Executor-System-JobCommander-JobExecutorServer</b><br><br>
+      <a href="https://github.com/PantelisChatzipetrou/Job-Executor-System-JobCommander-JobExecutorServer-.git" target="_blank" style="background-color:#4CAF50; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; display:inline-block;">View Repo</a>
     </td>
   </tr>
 </table>
