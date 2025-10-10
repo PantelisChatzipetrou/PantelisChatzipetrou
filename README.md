@@ -14,27 +14,18 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 
 
 ### Projects
-<div align="center">
-
-<table>
+<table width="100%" cellspacing="20">
   <tr>
-    <td width="70%" align="center" valign="top" style="padding:10px; border:1px solid #ddd; border-radius:10px;">
+    <td width="50%" valign="top" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
       <b>NTANTADES 2.0</b><br><br>
-      <a href="https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0.git" target="_blank">
-        <button style="background-color:#4CAF50; color:white; border:none; padding:12px 24px; border-radius:8px; cursor:pointer; font-size:14px;">View Project</button>
-      </a>
+      <a href="https://github.com/PantelisChatzipetrou/EAM-Ntantades_2.0.git" target="_blank" style="background-color:#4CAF50; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; display:inline-block;">View Repo</a>
     </td>
-    <td width="4%"></td>
-    <td width="70%" align="center" valign="top" style="padding:10px; border:1px solid #ddd; border-radius:10px;">
+    <td width="50%" valign="top" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
       <b>Project 2 Name</b><br><br>
-      <a href="https://github.com/YourUsername/Project2" target="_blank">
-        <button style="background-color:#4CAF50; color:white; border:none; padding:12px 24px; border-radius:8px; cursor:pointer; font-size:14px;">View Repo</button>
-      </a>
+      <a href="https://github.com/YourUsername/Project2" target="_blank" style="background-color:#4CAF50; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; display:inline-block;">View Repo</a>
     </td>
   </tr>
 </table>
-
-</div>
 <!--
 **PantelisChatzipetrou/PantelisChatzipetrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
