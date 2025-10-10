@@ -14,7 +14,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 
 
 ### Projects
-<table width="100%" cellspacing="20">
+<table width="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
       <b>NTANTADES 2.0</b><br><br>
