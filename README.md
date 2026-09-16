@@ -18,7 +18,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Databases
- **Email:** pantelchatzipetrou@gmail.com
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Projects
 <table align="center"> 
@@ -39,8 +39,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 </table>
 
 ### Contact Me 
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+**Email:** pantelchatzipetrou@gmail.com
 
 <!--
 **PantelisChatzipetrou/PantelisChatzipetrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
