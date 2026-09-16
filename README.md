@@ -40,6 +40,7 @@ Deeply interested in exploring the world of programming, learning new concepts, 
 
 ### Contact Me 
 **Email:** pantelchatzipetrou@gmail.com
+
 **LinkedIn:** www.linkedin.com/in/παντελής-χατζηπέτρου-63557a371
 
 <!--
